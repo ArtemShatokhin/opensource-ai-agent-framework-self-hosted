@@ -65,3 +65,8 @@ Source: [Kortix on GitHub](https://github.com/kortix-ai/suna). The key-by-key re
 - One isolated sandbox per session. Each session has its own isolated machine and branch.
 
 More detail in the [Kortix docs](https://kortix.com/docs) and at [opensourceaiagentframework.com](https://opensourceaiagentframework.com). New here? [Try Kortix](https://kortix.com).
+
+
+## Guides on the companion site
+
+[Framework or platform](https://opensourceaiagentframework.com/framework-or-platform) explains why a platform runs what a framework only defines, and [how to run an agent framework](https://opensourceaiagentframework.com/how-to-run-an-agent-framework) covers the runtime steps from install to a merged change request.
