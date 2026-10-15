@@ -69,4 +69,4 @@ More detail in the [Kortix docs](https://kortix.com/docs) and at [opensourceaiag
 
 ## Guides on the companion site
 
-[Framework or platform](https://opensourceaiagentframework.com/framework-or-platform) explains why a platform runs what a framework only defines, and [how to run an agent framework](https://opensourceaiagentframework.com/how-to-run-an-agent-framework) covers the runtime steps from install to a merged change request.
+[Framework or platform](https://opensourceaiagentframework.com/framework-or-platform) explains why a platform runs what a framework only defines, and [how to run an agent framework](https://opensourceaiagentframework.com/how-to-run-an-agent-framework) covers the runtime steps from install to a merged change request. When the job is coordination across several agents, [open-source AI agent orchestration](https://opensourceaiagentframework.com/open-source-ai-agent-orchestration) compares where each approach keeps state, memory and review, and [which open source AI agent framework fits your job](https://opensourceaiagentframework.com/best-open-source-ai-agent-framework) gives the shortlist.
